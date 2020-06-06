@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: black;
+  color:white;
+}
+
+.navbar-nav > li > a, .brand {
+    color: #FFF ;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+
+.navbar-nav > li > a:hover,
+.navbar-nav > li > a:focus,
+.brand:hover,
+.brand:focus {
+    color: #34C6d3;
+}
+
+.jumbotron{
+  color: #FFF;
+  background: #41464B;
+}
